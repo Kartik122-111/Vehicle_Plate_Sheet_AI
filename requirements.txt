@@ -1,1 +1,8 @@
-﻿git commit -m "Use CPU-only PyTorch for Streamlit deployment"
+﻿streamlit
+opencv-python-headless
+numpy
+Pillow
+easyocr
+requests
+gspread
+oauth2client
